@@ -1,0 +1,4 @@
+// make wrap => all-Routes
+// make layout => navbar and outlet for rendering pages
+// make nav => link
+// make pages home and about
